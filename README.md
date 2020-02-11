@@ -1,6 +1,6 @@
 ## CRUD Node.js and Mysql
 
-### In this tutorial, we need 4 dependencies below:
+### In this App, we need 4 dependencies below:
 
 - Express (node.js framework)
 - MySQL (mysql driver for node.js)
