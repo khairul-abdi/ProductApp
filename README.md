@@ -6,6 +6,8 @@
 - MySQL (mysql driver for node.js)
 - Body-parser (middleware for handling post body request)
 - Handlebars (template engine)
+- CDN Bootstrap V. 4
+- CDN JQuery V. 3.4.1
 
 ### Quick Start
 
