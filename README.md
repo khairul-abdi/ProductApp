@@ -1,4 +1,4 @@
-## CRUD Node.js and Mysql
+## MVC CRUD Node.js and Mysql
 
 ### In this App, we need 4 dependencies below:
 
